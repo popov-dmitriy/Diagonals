@@ -1,0 +1,2 @@
+# Diagonals
+Simple game
